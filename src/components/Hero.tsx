@@ -1,5 +1,3 @@
-import GarageScene from "./illustrations/GarageScene";
-
 const PHONE = "07939 655 692";
 
 export default function Hero() {
@@ -64,7 +62,11 @@ export default function Hero() {
 
           {/* Illustration side */}
           <div className="hidden md:block">
-            <GarageScene className="w-full drop-shadow-2xl" />
+            <img
+              src="/hero.png"
+              alt="Garage Rescue - garage clearance illustration"
+              className="w-full rounded-2xl drop-shadow-2xl"
+            />
           </div>
         </div>
       </div>
