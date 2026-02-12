@@ -29,7 +29,7 @@ const faqs = [
   {
     question: "Can you take large or heavy items?",
     answer:
-      "Yes! We can remove heavy items like old furniture, appliances, gym equipment, and more. Just let us know what's in the garage when you request a quote so we can plan accordingly.",
+      "We can handle most items including furniture, appliances, gym equipment, and general clutter. For very large or bulky items (e.g. full-size wardrobes, heavy machinery), let us know when you request a quote and we'll advise on the best approach. Some oversized items may need to be arranged separately.",
   },
   {
     question: "How quickly can you come?",
