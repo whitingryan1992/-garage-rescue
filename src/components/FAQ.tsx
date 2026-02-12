@@ -39,7 +39,7 @@ const faqs = [
   {
     question: "Do you take chemicals, paint, or hazardous waste?",
     answer:
-      "No — for safety and legal reasons, we cannot remove hazardous materials such as paint, varnish, petrol, oil, weed killer, pesticides, asbestos, or gas bottles. These require specialist disposal. Contact Durham County Council on 03000 26 0000 for advice on how to dispose of hazardous waste safely.",
+      "No - for safety and legal reasons, we cannot remove hazardous materials such as paint, varnish, petrol, oil, weed killer, pesticides, asbestos, or gas bottles. These require specialist disposal. Contact Durham County Council on 03000 26 0000 for advice on how to dispose of hazardous waste safely.",
   },
   {
     question: "Are there any extra charges?",

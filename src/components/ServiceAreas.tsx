@@ -50,7 +50,7 @@ export default function ServiceAreas() {
           <a href="#contact" className="font-semibold text-green-700 underline hover:text-green-600">
             Get in touch
           </a>{" "}
-          &mdash; we likely cover it.
+          - we likely cover it.
         </p>
       </div>
     </section>

@@ -29,7 +29,7 @@ export default function Pricing() {
             Simple, Transparent Pricing
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-lg text-gray-600">
-            Every garage is different &mdash; get a free quote for an exact
+            Every garage is different - get a free quote for an exact
             price. Here's a guide to get you started.
           </p>
         </div>
