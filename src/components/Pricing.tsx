@@ -16,7 +16,7 @@ const tiers = [
     name: "Large / Full Clearance",
     from: 349,
     description: "Packed to the rafters? No problem. We'll clear the lot.",
-    features: ["Complete clearance", "Multiple trips if needed", "Full recycling", "Deep clean finish", "Weekend slots available"],
+    features: ["Complete clearance", "Multiple trips if needed", "Full recycling", "Swept & tidied on completion", "Weekend slots available"],
   },
 ];
 
