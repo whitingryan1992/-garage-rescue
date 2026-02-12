@@ -32,9 +32,9 @@ const faqs = [
       "We can handle most items including furniture, appliances, gym equipment, and general clutter. For very large or bulky items (e.g. full-size wardrobes, heavy machinery), let us know when you request a quote and we'll advise on the best approach. Some oversized items may need to be arranged separately.",
   },
   {
-    question: "How quickly can you come?",
+    question: "When are you available?",
     answer:
-      "We offer same-week availability in most cases. For urgent jobs, we'll do our best to accommodate you as soon as possible. Get in touch and we'll find a time that works.",
+      "We currently operate on weekends (Saturday and Sunday). Get in touch and we'll book you in for the next available weekend slot.",
   },
 ];
 
