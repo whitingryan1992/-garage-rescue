@@ -36,6 +36,16 @@ const faqs = [
     answer:
       "We currently operate on weekends (Saturday and Sunday). Get in touch and we'll book you in for the next available weekend slot.",
   },
+  {
+    question: "Do you take chemicals, paint, or hazardous waste?",
+    answer:
+      "No — for safety and legal reasons, we cannot remove hazardous materials such as paint, varnish, petrol, oil, weed killer, pesticides, asbestos, or gas bottles. These require specialist disposal. Contact Durham County Council on 03000 26 0000 for advice on how to dispose of hazardous waste safely.",
+  },
+  {
+    question: "Are there any extra charges?",
+    answer:
+      "Our quotes are all-inclusive with no hidden fees. However, large or heavy items such as fridges, washing machines, or sofas may carry a small surcharge from £20 depending on size and weight. We'll always let you know upfront before any work starts.",
+  },
 ];
 
 function FAQItem({

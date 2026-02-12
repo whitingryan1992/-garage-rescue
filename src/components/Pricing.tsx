@@ -34,6 +34,15 @@ export default function Pricing() {
           </p>
         </div>
 
+        {/* Surcharges note */}
+        <div className="mx-auto mt-6 max-w-2xl rounded-xl bg-amber-50 border border-amber-200 p-4 text-sm text-amber-900">
+          <p className="font-semibold">Please note:</p>
+          <ul className="mt-2 space-y-1">
+            <li>• <strong>Bulky item surcharge:</strong> Large or heavy items (e.g. fridges, washing machines, sofas) may incur an additional charge from £20 depending on size and weight.</li>
+            <li>• <strong>Hazardous waste:</strong> We cannot remove chemicals, paint, petrol, oil, asbestos, or gas bottles. These require specialist disposal via Durham County Council.</li>
+          </ul>
+        </div>
+
         <div className="mt-12 grid gap-8 md:grid-cols-3">
           {tiers.map((tier) => (
             <div
